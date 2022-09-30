@@ -22,5 +22,5 @@ _start:
 
 section .data:
 	
-	message: db "Hello Baby!", 0xA
+	message: db "Hello Brother!", 0xA
 	message_length equ $-message
